@@ -1,0 +1,15 @@
+.menu > li {
+     cursor: pointer;
+}
+.menu > li::before, .menu > li::after {
+     content: "";
+     position: absolute;
+}
+
+
+.menu > li::before {
+     box-shadow: 0 40px 0 0 #008F84;
+}
+.menu > li::after {
+     box-shadow: 0 40px 0 0 #008F84;
+}
