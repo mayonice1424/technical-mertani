@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
 import { useEffect, useState } from "react";
-import "./Feeder.css";
+import "./feeder.css";
 import {
   Select,
   SelectContent,
